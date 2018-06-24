@@ -1,2 +1,2 @@
 # Animal-Trading-Cards
-This is Udacity Challenge Animal Trading Cards quiz
+This is my Udacity Challenge Animal Trading Cards quiz
